@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+pyproject-toml
+pickle5
+joblib
+jill
+xgboost
+DecisionTree
+#-e .
